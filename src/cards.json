@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Zion National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/zion/zion-national-park-canyon-junction-bridge.adapt.885.1.jpg",
+      "occupation": "Fry Cook",
+      "location": "Watchman from Canyon Junction Bridge"
+    },
+    {
+      "id": 2,
+      "name": "Yellowstone National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/yellowstone/yellowstone-national-park-great-fountain-geyser.adapt.885.1.jpg",
+      "occupation": "Restaurant Owner",
+      "location": "The Great Fountain Geyser"
+    },
+    {
+      "id": 3,
+      "name": "Acadia National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/acadia/acadia-national-park-bass-harbor-lighthouse.adapt.885.1.jpg",
+      "occupation": "Cashier",
+      "location": "Bass Harbor Lighthouse"
+    },
+    {
+      "id": 4,
+      "name": "Yosemite National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/yosemite/yosemite-falls-moonbow-yosemite-national-park.adapt.885.1.jpg",
+      "occupation": "Boy Genius",
+      "location": "Half Done from Glacier Point"
+    },
+    {
+      "id": 5,
+      "name": "Sequoia National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/sequoia/giant-tree-trail-sequoia-national-park.adapt.885.1.jpg",
+      "occupation": "A Cowardly Dog",
+      "location": "Giant Tree Trail"
+    },
+    {
+      "id": 6,
+      "name": "Crater Lake National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/crater-lake/crater-lake-national-park.adapt.885.1.jpg",
+      "occupation": "Student",
+      "location": "Southwest rim near Discovery Point"
+    },
+    {
+      "id": 7,
+      "name": "Grand Teton National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/grand-teton/grand-teton-national-park-schwabachers-landing.adapt.885.1.jpg",
+      "occupation": "Looney Toon",
+      "location": "The Snake River"
+    },
+    {
+      "id": 8,
+      "name": "Olympic National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/olympic/olympic-national-park-beach-hike.adapt.885.1.jpg",
+      "occupation": "Ladies Man",
+      "location": "Sea Stacks"
+    },
+    {
+      "id": 9,
+      "name": "Big Bend National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/big-bend/big-bend-national-park-canyon.adapt.885.1.jpg",
+      "occupation": "Adventurer",
+      "location": "Rio Grande"
+    },
+    {
+      "id": 10,
+      "name": "Bryce Canyon National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/bryce-canyon/ampitheater-bryce-canyon-national-park.adapt.885.1.jpg",
+      "occupation": "Cashier",
+      "location": "The ampitheater"
+    },
+    {
+      "id": 11,
+      "name": "Great Sand Dunes National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/great-sand-dunes/great-sand-dunes-national-park-5.adapt.885.1.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Virgin Islands National Park",
+      "image": "https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2016/59-parks-52-weeks/virgin-island/virgin-islands-national-park-beach-.adapt.885.1.jpg",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Virgin Islands"
+    }
+  ]
